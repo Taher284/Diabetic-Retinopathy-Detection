@@ -129,4 +129,3 @@ Contributions are welcome! If you’d like to:
 4. Submit a Pull Request with clear description of your changes.
 
 
-Let me know if you’d like sections added or removed (for example: dataset download instructions, architecture diagram, result plots, limitations section) or want the README tailored for a specific audience (e.g., academic, industry, collaborators).
